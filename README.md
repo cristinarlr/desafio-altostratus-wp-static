@@ -1,0 +1,1 @@
+# desafio-altostratus-wp-static
